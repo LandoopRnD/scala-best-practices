@@ -6,7 +6,7 @@
 
 A collection of Scala best practices, open to debate and contributions! 
 
-forked from [Alexandru Nedelcu's](https://github.com/alexandru/scala-best-practices)
+forked from [Alexandru Nedelcu's repository](https://github.com/alexandru/scala-best-practices)
 
 ## Table of Contents
 
