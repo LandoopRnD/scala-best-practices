@@ -6,7 +6,7 @@ A collection of Scala best practices, forked from [Alexandru Nedelcu's initial w
 
 ## How to contribute
 
-These list of best practices is open to debate, amends and contributions. If you think some of the best practices adviced in this document are outdated, or you would like to contribute amends or extensions, please open a PR and bring it to your collegues' attentions on the `#chapter-backend` Slack channel. Another great forum to discuss possible amends is our weekly chapter meeting; we try to fix an agenda for this meeting with two days of advance. Please let us know whith some advance if you want to propose a discussion topic for this session.
+This list is open to debate, amends and contributions. If you think some of the best practices adviced in this document are outdated, or you would like to contribute amends or extensions, please open a PR and bring it to your collegues' attentions on the `#chapter-backend` Slack channel. Another great forum to discuss possible amends is our weekly chapter meeting. Please let us know in advance if you want to discuss a best practice during this session, as we try to fix an agenda with two days of advance.
 
 ## Table of Contents
 
