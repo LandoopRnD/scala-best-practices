@@ -1,14 +1,12 @@
-# Scala Best Practices
+# Scala Best Practices at Lenses.io
 
 [![Join the chat at https://gitter.im/alexandru/scala-best-practices](https://badges.gitter.im/alexandru/scala-best-practices.svg)](https://gitter.im/alexandru/scala-best-practices?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <img src="https://raw.githubusercontent.com/monifu/scala-best-practices/master/assets/scala-logo-256.png"  align="right" width="100" height="100" />
 
-A collection of best practices, friendly to people that want to
-contribute.
+A collection of Scala best practices, open to debate and contributions! 
 
-- Version: `1.2`
-- Updated at: `2016-06-08`
+forked from [Alexandru Nedelcu's](https://github.com/alexandru/scala-best-practices)
 
 ## Table of Contents
 
